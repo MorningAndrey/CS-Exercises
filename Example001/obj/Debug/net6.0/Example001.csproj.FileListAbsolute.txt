@@ -1,0 +1,15 @@
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\bin\Debug\net6.0\Example001.exe
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\bin\Debug\net6.0\Example001.deps.json
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\bin\Debug\net6.0\Example001.dll
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\bin\Debug\net6.0\Example001.pdb
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.dll
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\refint\Example001.dll
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.pdb
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+A:\GeekBrains IT-Engineer\Курс 3. Знакомство с языками программирования (С#)\Лекция 1\Hello_world\Example001\obj\Debug\net6.0\ref\Example001.dll
